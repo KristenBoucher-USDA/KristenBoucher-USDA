@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on data analysis projects for the USDA OCIO Digital Service office. 
 - 📫 How to reach me: Kristen.Boucher@usda.gov
-- 😄 Pronouns: She/Her
+- 👩‍🦰 Pronouns: She/Her
 - ⚡ Fun fact: My husband and I used to own a local nano brewery. We sold it to focus on family time, but continue to make beer at home and compete in homebrew competitions throughout the United States. 
 
 <!---
